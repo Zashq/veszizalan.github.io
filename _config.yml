@@ -23,11 +23,11 @@ repository               : "Zashq/veszizalan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Veszi Zalan"
   pronouns         : # example: "she/her"  
   bio              : "Student"
-  location         : "Marosvasarhely"
+  location         : "Targu Mures"
   employer         : "University G.E. Palade UMPhST of Targu Mures"
   uri              : # URL
   email            : "zalan.veszi@gmail.com" 
