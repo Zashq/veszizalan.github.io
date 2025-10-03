@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "Chess"
-    url: /lab1
+    url: /lab1/
 
   #- title: "Publications"
   #  url: /publications/
