@@ -23,12 +23,12 @@ repository               : "Zashq/veszizalan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zalan.jpg"
+  avatar           : "profile.jpg"
   name             : "Veszi Zalan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "-"
+  bio              : "Student"
+  location         : "Marosvasarhely"
+  employer         : "University G.E. Palade UMPhST of Targu Mures"
   uri              : # URL
   email            : "zalan.veszi@gmail.com" 
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : www.linkedin.com/in/zalán-vészi-711294240
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
